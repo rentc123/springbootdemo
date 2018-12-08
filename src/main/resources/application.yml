@@ -1,0 +1,17 @@
+#server:
+#  port: 8081
+#spring:
+#  datasource:
+#    username: root
+#    password: 123456
+#    url: jdbc:mysql://localhost:3306/test?serverTimezone=UTC
+#    driver-class-name: com.mysql.jdbc.Driver
+#    type: com.alibaba.druid.pool.DruidDataSource
+#
+#  jpa:
+#    hibernate:
+#      ddl-auto: update #自动更新
+#    show-sql: true  #日志中显示sql语句
+#
+#  test:
+#    name: ren
